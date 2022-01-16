@@ -13,6 +13,7 @@ public class Main {
         int[]clonearr = arr.clone();
         System.out.println(arr==clonearr);
         System.out.println(arr[0]==clonearr[0]);
+        System.out.println("Git privet");
 
       /* while (true) {
 
